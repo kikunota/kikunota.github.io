@@ -16,8 +16,8 @@
     },
     "viewerState": {
         "tabOpen": "classes",
-        "expandObjectsTree": 2,
-        "expandClassesTree": 2,
-        "expandStoreysTree": 2
+        "expandObjectsTree": 5,
+        "expandClassesTree": 5,
+        "expandStoreysTree": 5
     }
 }
