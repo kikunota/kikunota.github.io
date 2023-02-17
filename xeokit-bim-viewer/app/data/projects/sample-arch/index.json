@@ -1,10 +1,10 @@
 {
-    "id": "duplex",
-    "name": "Duplex",
+    "id": "sample-arch",
+    "name": "sample-arch",
     "models": [
         {
             "id": "design",
-            "name": "Duplex Design"
+            "name": "sample-arch"
         }
     ],
     "viewerConfigs": {
