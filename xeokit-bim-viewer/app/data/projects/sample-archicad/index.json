@@ -1,0 +1,23 @@
+{
+    "id": "sample-archicad",
+    "name": "sample-archicad",
+    "models": [
+        {
+            "id": "design",
+            "name": "sample-archicad"
+        }
+    ],
+    "viewerConfigs": {
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "design"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "classes",
+        "expandObjectsTree": 5,
+        "expandClassesTree": 5,
+        "expandStoreysTree": 5
+    }
+}
