@@ -1,0 +1,23 @@
+{
+    "id": "sample-arch",
+    "name": "sample-arch",
+    "models": [
+        {
+            "id": "design",
+            "name": "sample-arch"
+        }
+    ],
+    "viewerConfigs": {
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "design"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "classes",
+        "expandObjectsTree": 5,
+        "expandClassesTree": 5,
+        "expandStoreysTree": 5
+    }
+}
